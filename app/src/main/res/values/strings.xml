@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Material3</string>
+    <string name="description">When running the Android Plugin from the command line or on machines where Android Studio is not installed, set the Android Plugin for Gradle proxy settings in the Gradle build file.
+    For application-specific HTTP proxy settings, set the proxy settings in the build.gradle file as required for each application module.</string>
+</resources>
